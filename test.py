@@ -5,4 +5,4 @@ while soma <= 10:
     print(soma)
     soma += 1
 
-print('Hello usuário, aqui está o seu código!')
+print('Olá usuário, aqui está o seu código!')
